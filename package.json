@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-react-typescript",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Jeremiasz Mazur <mazur.dev@gmail.com>",
+  "description": "a hello world in react and typescript",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "start": "tsc -p js"
+  },
+  "dependencies": {
+    "@types/react": "^15.0.22",
+    "@types/react-dom": "^15.5.0",
+    "express": "~3.4.7",
+    "json-lint": "~0.1.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
