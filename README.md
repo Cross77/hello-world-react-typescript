@@ -5,9 +5,9 @@ It is only hello world in typescript and react
 ```
 npm install
 ```
-## Run
+## Compile TypeScript to JavaScript
 ```
-hello-world-react-typescript
+tsc -p js
 ```
 ## License
 MIT 2017
